@@ -1,0 +1,6 @@
+F:\phani\VS_LAB\WcfService1\client\bin\Debug\client.exe.config
+F:\phani\VS_LAB\WcfService1\client\bin\Debug\client.exe
+F:\phani\VS_LAB\WcfService1\client\bin\Debug\client.pdb
+F:\phani\VS_LAB\WcfService1\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+F:\phani\VS_LAB\WcfService1\client\obj\Debug\client.exe
+F:\phani\VS_LAB\WcfService1\client\obj\Debug\client.pdb
